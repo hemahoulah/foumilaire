@@ -1,0 +1,6 @@
+{
+  "name": "AegisGate - Privileged Access Gateway",
+  "description": "Portail d'accès privilégié Zero Trust sécurisé avec passerelle cryptographique FIDO2, gestion de sessions PAM et supervision SOC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
